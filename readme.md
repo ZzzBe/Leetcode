@@ -4,4 +4,4 @@
 
 '#'|Title|C++|python|Difficulty|Time Complexity|Tag
 ---|:--:|:--:|:--:|:--:|:--:|---:
-001|Two Sum||[001.py](./src/001/001.py)|Easy|O(n)||
+001|Two Sum|[001.h](./src/001/001.h)|[001.py](./src/001/001.py)|Easy|O(n)||
